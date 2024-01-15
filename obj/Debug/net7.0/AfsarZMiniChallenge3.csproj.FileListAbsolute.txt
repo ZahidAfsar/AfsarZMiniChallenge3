@@ -1,0 +1,14 @@
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/bin/Debug/net7.0/AfsarZMiniChallenge3
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/bin/Debug/net7.0/AfsarZMiniChallenge3.deps.json
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/bin/Debug/net7.0/AfsarZMiniChallenge3.runtimeconfig.json
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/bin/Debug/net7.0/AfsarZMiniChallenge3.dll
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/bin/Debug/net7.0/AfsarZMiniChallenge3.pdb
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/AfsarZMiniChallenge3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/AfsarZMiniChallenge3.AssemblyInfoInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/AfsarZMiniChallenge3.AssemblyInfo.cs
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/AfsarZMiniChallenge3.csproj.CoreCompileInputs.cache
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/AfsarZMiniChallenge3.dll
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/refint/AfsarZMiniChallenge3.dll
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/AfsarZMiniChallenge3.pdb
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/AfsarZMiniChallenge3.genruntimeconfig.cache
+/Users/zahidafsar/Documents/Codestack 2024/combine/AfsarZMiniChallenge3/obj/Debug/net7.0/ref/AfsarZMiniChallenge3.dll
